@@ -1,5 +1,5 @@
 # Khalid Shaikh
-**Full Stack Developer & React Native Engineer**
+**Full Stack Developer & React Native Engineer** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shaikh--khalid.vercel.app-black?style=flat-square&logo=vercel)](https://shaikh-khalid.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-shk.khalid18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shk.khalid18@gmail.com)
