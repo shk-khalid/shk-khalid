@@ -1,17 +1,49 @@
-# Khalid Shaikh
-**Full Stack Developer & React Native Engineer**   
+<h1 align="center">Khalid Shaikh</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shaikh--khalid.vercel.app-black?style=flat-square&logo=vercel)](https://shaikh-khalid.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-shk.khalid18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shk.khalid18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shk--khalid-181717?style=flat-square&logo=github)](https://github.com/shk-khalid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalidshk-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/khalidshk)
-[![Location](https://img.shields.io/badge/Location-Mumbai%2C_India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<p align="center">
+  <strong>Full Stack Developer • React Native Developer • Backend Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Backend+Engineering+%7C+System+Design;TypeScript+%7C+React+%7C+Node.js+%7C+Python" />
+  </a>
+</p>
+<div align="center">
+
+<a href="https://khalidshk.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-shaikh--khalid.vercel.app-black?style=flat-square&logo=vercel" alt="Portfolio">
+</a>
+&nbsp;
+<a href="mailto:shk.khalid18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shk.khalid18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/shk-khalid">
+  <img src="https://img.shields.io/badge/GitHub-shk--khalid-181717?style=flat-square&logo=github" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/khalidshk">
+  <img src="https://img.shields.io/badge/LinkedIn-khalidshk-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C_India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+</a>
+
+</div>
 
 ---
 
-## Summary
+## About Me
 
-Full-stack developer with 1+ years of experience building web and mobile applications using modern JavaScript frameworks and backend technologies. Known for delivering high-quality work in fast-paced environments, quickly adapting to changing requirements, and shipping features efficiently. Strong collaborator with clear communication, focused on building reliable products that support team goals and business growth.
+Full Stack Developer with **1+ years** of professional experience building scalable web and mobile applications. I specialize in backend systems, React ecosystems, API design, and production-ready software that scales.
+
+- Building production web & mobile applications
+- Backend architecture and REST API development
+- React, React Native, Next.js & TypeScript
+- Node.js, Python, Go & SQL databases
+- Shipping features from idea to production
 
 ---
 
@@ -36,13 +68,6 @@ Full-stack developer with 1+ years of experience building web and mobile applica
 - Integrated automated shipping assignment workflows with webhook-based third-party services, reducing manual operational handling.
 - Built end-to-end resolution and request-closing systems with structured status tracking and scalable return handling for high-volume operations.
 - Collaborated within a fast-paced cross-functional team, contributing to weekly production releases and rapid feature delivery.
----
-
-## Education
-
-**B.Sc. Computer Science — KC College of Arts, Commerce & Science, Mumbai**
-2022 – 2025 · GPA: 8.72 / 10
-
 ---
 
 ## GitHub Activity
