@@ -48,27 +48,18 @@ Full-stack developer with 1+ years of experience building web and mobile applica
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/shk-khalid">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shk-khalid&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/shk-khalid">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shk-khalid&hide_border=true" />
-  </a>
+  <img width="48%" src="https://streak-stats.demolab.com?user=shk-khalid&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shk-khalid">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shk-khalid&layout=compact&hide_border=true&langs_count=8" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shk-khalid&theme=github-dark&hide_border=true" />
 </p>
 
-### Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/shk-khalid">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shk-khalid&theme=github-compact&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/shk-khalid/shk-khalid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
