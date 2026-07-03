@@ -1,49 +1,43 @@
 <h1 align="center">Khalid Shaikh</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • React Native Developer • Backend Engineer</strong>
+  <strong>Founding Engineer • Full Stack Developer • AI Systems Builder</strong>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Backend+Engineering+%7C+System+Design;TypeScript+%7C+React+%7C+Node.js+%7C+Python" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=720&lines=Building+AI-Powered+Products;Founding+Engineer+at+Protega+AI;Designing+Scalable+Backend+Systems;Multi-Agent+AI+%7C+LangGraph+%7C+RAG;TypeScript+%7C+React+%7C+Node.js+%7C+Python"
+      alt="Typing SVG"
+    />
   </a>
 </p>
-<div align="center">
 
-<a href="https://khalidshk.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-shaikh--khalid.vercel.app-black?style=flat-square&logo=vercel" alt="Portfolio">
-</a>
-&nbsp;
-<a href="mailto:shk.khalid18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shk.khalid18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-&nbsp;
-<a href="https://github.com/shk-khalid">
-  <img src="https://img.shields.io/badge/GitHub-shk--khalid-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/khalidshk">
-  <img src="https://img.shields.io/badge/LinkedIn-khalidshk-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C_India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://khalidshk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:shk.khalid18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shk-khalid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/khalidshk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-## About Me
+## About
 
-Full Stack Developer with **1+ years** of professional experience building scalable web and mobile applications. I specialize in backend systems, React ecosystems, API design, and production-ready software that scales.
+I build production-grade software that combines modern web technologies with AI. My work spans full-stack applications, backend architecture, mobile development, and LLM-powered systems, with a focus on building products that are reliable, scalable, and genuinely useful.
 
-- Building production web & mobile applications
-- Backend architecture and REST API development
-- React, React Native, Next.js & TypeScript
-- Node.js, Python, Go & SQL databases
-- Shipping features from idea to production
+Currently, I'm a **Founding Engineer at Protega AI**, where I design and ship AI-driven workflows, scalable backend services, and merchant-facing platforms used in production.
+
+### Currently Building
+
+- Multi-agent research systems with LangGraph and LangChain
+- AI-powered returns and workflow automation
+- Scalable backend services with Node.js, Go and Python
+- Cross-platform mobile applications using React Native
+
+### Interests
+
+`Artificial Intelligence` • `Backend Engineering` • `System Design` • `Developer Tools` • `Mobile Development` • `Sports Analytics`
 
 ---
 
@@ -90,70 +84,39 @@ Full Stack Developer with **1+ years** of professional experience building scala
 
 ## Tech Stack
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,django,flask,go,mongodb,postgres,mysql,redis,supabase,firebase,docker,git,github,linux,aws,vercel,postman,figma&perline=7"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
 
 ---
 
-## Projects
-
-### [InfluenceHub](https://influencehub-collab.vercel.app/)
+### [InfluenceHub](https://github.com/shk-khalid/influenceHub)
 **Influencer–Brand Collaboration Platform**
-
 Built a data-driven platform that matches influencers with relevant brands by analyzing creator metrics, brand profiles, and campaign goals to recommend high-potential, strategically aligned collaborations.
 
-[![Live](https://img.shields.io/badge/Live-influencehub--collab.vercel.app-black?style=flat-square&logo=vercel)](https://influencehub-collab.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-influenceHub-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/influenceHub)
 
 ---
 
-### [KickoffXI](https://kickoffxi.vercel.app/)
-**Football Lineup Predictor**
+### [Terralyt](https://terralyt.vercel.app/)
+**Enterprise ESG Management Platform**
+Built a multi-tenant SaaS platform for tracking and reporting greenhouse gas emissions, with automated carbon footprint calculations, CSV ingestion pipelines, role-based access control, and an auditor review workflow.
 
-Built a data-driven web application that predicts probable starting XIs for upcoming football matches using player performance metrics, team selection patterns, and match context.
-
-[![Live](https://img.shields.io/badge/Live-kickoffxi.vercel.app-black?style=flat-square&logo=vercel)](https://kickoffxi.vercel.app/)
-
----
-
-### [Stocksense](https://stocksense.vercel.app/)
-**Cloud Portfolio Tracker**
-
-Designed and built a cloud-backed financial tracking platform with backend-managed market data, portfolio analytics, and automated price alerts.
-
-[![Live](https://img.shields.io/badge/Live-stocksense.vercel.app-black?style=flat-square&logo=vercel)](https://stocksense.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-terralyt.vercel.app-black?style=flat-square&logo=vercel)](https://terralyt.vercel.app/)
 
 ---
+
+### [SpotLyght](https://postman-clone-theta.vercel.app/)
+**Postman Clone — API Testing Tool**
+Built a browser-based API testing tool that allows users to make HTTP requests, inspect responses, manage headers and query params, and save request history.
+
+[![Live](https://img.shields.io/badge/Live-postman--clone--theta.vercel.app-black?style=flat-square&logo=vercel)](https://postman-clone-theta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-SpotLyght-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/SpotLyght)
 
 ## Certifications
 
