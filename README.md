@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=720&lines=Building+AI-Powered+Products;Founding+Engineer+at+Protega+AI;Designing+Scalable+Backend+Systems;Multi-Agent+AI+%7C+LangGraph+%7C+RAG;TypeScript+%7C+React+%7C+Node.js+%7C+Python"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=170&lines=%24+cat+currently.txt;Building+production-grade+AI+systems;%24+cat+learning.txt;Distributed+Systems+%7C+Agentic+AI;%24+echo+%22Keep+shipping.%22"
+    alt="Terminal Animation"
+  />
 </p>
 
 <p align="center">
