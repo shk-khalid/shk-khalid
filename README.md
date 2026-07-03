@@ -18,7 +18,7 @@ Full-stack developer with 1+ years of experience building web and mobile applica
 ## Experience
 
 ### Software Engineer — RIFTI Solutions *(Freelance)*
-*May 2025 – Present · Mumbai, India*
+*December 2024 – February 2026 · Mumbai, India*
 
 - Developed scalable backend services using Node.js and Express, designing REST APIs, handling authentication, and managing database interactions with MongoDB and PostgreSQL.
 - Optimized backend performance by refactoring server logic, improving query efficiency, implementing validation, and debugging production issues.
@@ -36,18 +36,6 @@ Full-stack developer with 1+ years of experience building web and mobile applica
 - Integrated automated shipping assignment workflows with webhook-based third-party services, reducing manual operational handling.
 - Built end-to-end resolution and request-closing systems with structured status tracking and scalable return handling for high-volume operations.
 - Collaborated within a fast-paced cross-functional team, contributing to weekly production releases and rapid feature delivery.
-
----
-
-### Full Stack Engineer — FusionCode Software Solutions *(Contract, Remote)*
-*August 2024 – January 2026*
-
-- Managed multiple concurrent development projects spanning frontend engineering, backend optimization, and feature delivery across web-based platforms.
-- Diagnosed and resolved critical production issues and application crashes, improving platform stability and reducing recurring system failures.
-- Optimized frontend rendering, API response handling, and database query performance, resulting in faster page load times and improved responsiveness.
-- Improved platform scalability through targeted refactoring, performance tuning, and load-handling improvements.
-- Collaborated with cross-functional teams in fast-paced delivery cycles, contributing to feature rollouts and production maintenance.
-
 ---
 
 ## Education
