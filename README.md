@@ -41,6 +41,13 @@ Currently, I'm a **Founding Engineer at Protega AI**, where I design and ship AI
 
 ---
 
+## Education
+
+**B.Sc. Computer Science — KC College of Arts, Commerce & Science, Mumbai**
+2022 – 2025 · GPA: 8.72 / 10
+
+---
+
 ## Experience
 
 ### Software Engineer — RIFTI Solutions *(Freelance)*
