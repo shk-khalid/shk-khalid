@@ -52,26 +52,25 @@ Currently, I'm a **Founding Engineer at Protega AI**, where I design and ship AI
 
 ## Experience
 
-### Software Engineer — RIFTI Solutions *(Freelance)*
-*December 2024 – February 2026 · Mumbai, India*
-
-- Developed scalable backend services using Node.js and Express, designing REST APIs, handling authentication, and managing database interactions with MongoDB and PostgreSQL.
-- Optimized backend performance by refactoring server logic, improving query efficiency, implementing validation, and debugging production issues.
-- Contributed to the development of multiple complex mobile applications using React Native, implementing key features, navigation flows, and backend API integration.
-- Built reusable mobile UI components and managed application state, ensuring smooth performance and responsive layouts.
-
----
-
 ### Founding Software Developer — Protega AI *(Full-time)*
 *April 2025 – Present · Mumbai, India*
 
-- Developed 5+ responsive landing pages and business-facing web interfaces using React, TailwindCSS, and Framer Motion, implementing advanced animations and interactive transitions.
-- Designed and managed dashboards for 3 major stakeholder systems — customers, merchants, and administrators — enabling real-time workflow visibility and operational monitoring.
-- Implemented a complete AI-powered returns management workflow handling the full lifecycle from chatbot-based request initiation to automated issue segmentation and priority-based routing.
-- Integrated automated shipping assignment workflows with webhook-based third-party services, reducing manual operational handling.
-- Built end-to-end resolution and request-closing systems with structured status tracking and scalable return handling for high-volume operations.
-- Collaborated within a fast-paced cross-functional team, contributing to weekly production releases and rapid feature delivery.
+- Own backend and production workflows across two products, covering APIs, business logic, automation, integrations, and deployment.
+- Built dashboards and interfaces for customer, merchant, admin, and operational stakeholders, and now own the backend functionality and logic behind them.
+- Build n8n automation workflows and WhatsApp Business workflows/broadcasting for customer communication and operational processes.
+- Implemented an end-to-end returns workflow covering request initiation, issue analysis, routing, status tracking, resolution, and automated updates.
+- Integrated webhook-driven third-party logistics services for automated shipping assignment and fulfillment workflows.
+- Contribute to Protega Fix, a repair-service product involving troubleshooting workflows, customer-submitted media, service-partner operations, and backend processing.
+
 ---
+
+### Software Engineer — RIFTI Solutions *(Freelance)*
+*December 2024 – February 2026 · Mumbai, India*
+
+- Worked on a major quick-commerce application based in North India, contributing to the UI redesign and backend services consisting of multiple REST APIs and webhooks.
+- Developed backend services using Node.js and Express, implementing authentication, validation, business logic, and database operations with MongoDB and PostgreSQL.
+- Worked on a fitness aggregator application based in Mumbai, developing features using React Native and integrating them with backend services.
+- Built reusable components and managed application state across mobile applications.
 
 ## GitHub Activity
 
@@ -104,28 +103,38 @@ Currently, I'm a **Founding Engineer at Protega AI**, where I design and ship AI
 
 ---
 
+## Projects
+
+### [Terralyt](https://terralyt.vercel.app/)
+**Multi-Tenant ESG Data Ingestion & Audit Platform**
+Built a multi-tenant Django + React platform for GHG emissions ingestion, calculation, verification, and compliance auditing, with source-specific parsers, schema/unit normalization, anomaly validation, and an append-only audit ledger for tracking data changes.
+
+[![Live](https://img.shields.io/badge/Live-terralyt.vercel.app-black?style=flat-square&logo=vercel)](https://terralyt.vercel.app/)
+
+---
+
+### [SStockSense](https://github.com/shk-khalid/stockAnalysis)
+**Real-Time Stock Watchlist & Alert Platform**
+Built a React + Django + Supabase financial dashboard with watchlists, price alerts, email notifications, and real-time WebSocket updates, using Celery, Celery Beat, Redis, and Django Channels for asynchronous alert evaluation and event delivery.
+
+[![GitHub](https://img.shields.io/badge/GitHub-stockAnalysis-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/stockAnalysis)
+
+---
+
+### [GateCheck](https://github.com/shk-khalid/GateCheck)
+**Automated App Integration Readiness Agent**
+Built a sequential research pipeline that evaluates software applications for API integration readiness — targeted web search against official developer and documentation sources, component-based extraction using a local LLM (Llama 3.2 3B via Ollama), and deterministic Python guardrails producing a confidence score and buildability verdict (ready, buildable with constraints, or blocked).
+
+[![GitHub](https://img.shields.io/badge/GitHub-GateCheck-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/GateCheck)
+
+---
+
 ### [InfluenceHub](https://github.com/shk-khalid/influenceHub)
 **Influencer–Brand Collaboration Platform**
 Built a data-driven platform that matches influencers with relevant brands by analyzing creator metrics, brand profiles, and campaign goals to recommend high-potential, strategically aligned collaborations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-influenceHub-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/influenceHub)
 
----
-
-### [Terralyt](https://terralyt.vercel.app/)
-**Enterprise ESG Management Platform**
-Built a multi-tenant SaaS platform for tracking and reporting greenhouse gas emissions, with automated carbon footprint calculations, CSV ingestion pipelines, role-based access control, and an auditor review workflow.
-
-[![Live](https://img.shields.io/badge/Live-terralyt.vercel.app-black?style=flat-square&logo=vercel)](https://terralyt.vercel.app/)
-
----
-
-### [SpotLyght](https://postman-clone-theta.vercel.app/)
-**Postman Clone — API Testing Tool**
-Built a browser-based API testing tool that allows users to make HTTP requests, inspect responses, manage headers and query params, and save request history.
-
-[![Live](https://img.shields.io/badge/Live-postman--clone--theta.vercel.app-black?style=flat-square&logo=vercel)](https://postman-clone-theta.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-SpotLyght-181717?style=flat-square&logo=github)](https://github.com/shk-khalid/SpotLyght)
 
 ## Certifications
 
